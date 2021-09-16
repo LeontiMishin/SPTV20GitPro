@@ -18,6 +18,7 @@ public class SPTV20GitPro {
         System.out.println("Novaja versija projekta");
         System.out.println("Vtaraja versija projekta");
         System.out.println("Tretja versija projekta");
+        System.out.println("Chetvertaja versija projekta");
     }
     
 }
